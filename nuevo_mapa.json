@@ -785,7 +785,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0.5,
+        "fill-opacity": "",
         "DISTRITO": "La Molina",
         "SUBDISTRITO": "La Molina Vieja"
       },
@@ -1389,7 +1389,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0.5,
+        "fill-opacity": "",
         "DISTRITO": "San Miguel",
         "SUBDISTRITO": "San Miguel Norte"
       },
@@ -1880,6 +1880,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "San Borja",
         "SUBDISTRITO": "San Borja Centro"
       },
@@ -2514,7 +2519,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0.5,
+        "fill-opacity": "",
         "DISTRITO": "Barranco",
         "SUBDISTRITO": "Barranco Tradicional"
       },
@@ -3083,7 +3088,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0.5,
+        "fill-opacity": "",
         "DISTRITO": "Magdalena del Mar",
         "SUBDISTRITO": "Magdalena Centro"
       },
@@ -3474,7 +3479,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0.5,
+        "fill-opacity": "",
         "DISTRITO": "Lima",
         "SUBDISTRITO": "Lima Oeste 2"
       },
@@ -3649,7 +3654,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0.5,
+        "fill-opacity": "",
         "DISTRITO": "Pueblo Libre",
         "SUBDISTRITO": "Pueblo Libre Norte"
       },
@@ -5141,7 +5146,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Magdalena del Mar",
+        "SUBDISTRITO": "Magdalena Moderno"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5224,7 +5232,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "DISTRITO": "San Isidro",
+        "SUBDISTRITO": "San Isidro Norte"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5275,7 +5291,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "DISTRITO": "San Isidro",
+        "SUBDISTRITO": "San Isidro NorEste"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5334,7 +5358,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": "",
+        "DISTRITO": "Lince",
+        "SUBDISTRITO": "Linsidro"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5397,7 +5429,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Lince",
+        "SUBDISTRITO": "Lince Financiero"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5456,7 +5491,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "DISTRITO": "Lince",
+        "SUBDISTRITO": "Lince Comercial"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5495,7 +5538,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Lince",
+        "SUBDISTRITO": "Lince Este"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5558,7 +5604,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Lima",
+        "SUBDISTRITO": "Lima Sur",
+        "fill-opacity": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5605,7 +5655,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": "",
+        "DISTRITO": "Jesus Maria",
+        "SUBDISTRITO": "Jesus Maria Sur"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5668,7 +5726,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": "",
+        "DISTRITO": "Jesus Maria",
+        "SUBDISTRITO": "Jesus Maria Sur"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5732,8 +5798,13 @@
     {
       "type": "Feature",
       "properties": {
-        "fill": "",
-        "fill-opacity": ""
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#000000",
+        "fill-opacity": 0.5,
+        "DISTRITO": "Jesus Maria",
+        "SUBDISTRITO": "Jesus Maria Sur"
       },
       "geometry": {
         "type": "Polygon",
@@ -5774,7 +5845,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0.5,
+        "fill-opacity": "",
         "DISTRITO": "Chorrillos",
         "SUBDISTRITO": "Chorrillos Oeste"
       },
@@ -5893,7 +5964,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0.5,
+        "fill-opacity": "",
         "DISTRITO": "Chorillos",
         "SUBDISTRITO": "Chorrillos Este"
       },
@@ -5932,7 +6003,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": 0.5,
+        "fill-opacity": "",
         "DISTRITO": "Chorrillos",
         "SUBDISTRITO": "Chorrillos Centro y Este"
       },
@@ -6095,7 +6166,8 @@
     {
       "type": "Feature",
       "properties": {
-        "DISTRITO": ""
+        "DISTRITO": "Breña",
+        "SUBDISTRITO": "Breña Oeste"
       },
       "geometry": {
         "type": "Polygon",
@@ -6147,7 +6219,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Breña",
+        "SUBDISTRITO": "Breña Este"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6190,7 +6265,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Breña",
+        "SUBDISTRITO": "Breña Norte"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [

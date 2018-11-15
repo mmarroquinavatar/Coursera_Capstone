@@ -1011,7 +1011,11 @@
     {
       "type": "Feature",
       "properties": {
-        "fill": "",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#000000",
         "DISTRITO": "Chorillos",
         "SUBDISTRITO": "Chorrillos Norte y Sur"
       },
@@ -1194,9 +1198,13 @@
     {
       "type": "Feature",
       "properties": {
-        "fill": "",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#000000",
         "DISTRITO": "Barranco",
-        "SUBDISTRITO": "Barranco Cultural"
+        "SUBDISTRITO": "Barranco Cultural",
+        "fill-opacity": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1460,8 +1468,13 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
         "DISTRITO": "Santiago de Surco",
-        "SUBDISTRITO": "Surco Monterrico"
+        "SUBDISTRITO": "Surco Monterrico",
+        "fill-opacity": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1614,7 +1627,9 @@
     {
       "type": "Feature",
       "properties": {
-        "fill-opacity": ""
+        "fill-opacity": "",
+        "DISTRITO": "Santiago de Surco",
+        "SUBDISTRITO": "Surco Casuarinas"
       },
       "geometry": {
         "type": "Polygon",
@@ -1814,7 +1829,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "San Borja",
+        "SUBDISTRITO": "San Borja Chacarilla"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1861,7 +1879,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "San Borja",
+        "SUBDISTRITO": "San Borja Centro"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1976,7 +1997,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "San Borja",
+        "SUBDISTRITO": "San Borja Norte"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2051,7 +2075,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Santiago de Surco",
+        "SUBDISTRITO": "Surco Chacarilla"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2110,7 +2137,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Chorrillos",
+        "SUBDISTRITO": "Chorrillos Centro y Norte"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2213,7 +2243,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Santiago de Surco",
+        "SUBDISTRITO": "Surco Sur"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2476,7 +2509,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "DISTRITO": "Barranco",
+        "SUBDISTRITO": "Barranco Tradicional"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2587,7 +2628,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Barranco",
+        "SUBDISTRITO": "Nuevo Barranco"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2638,7 +2682,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Santiago de Surco",
+        "SUBDISTRITO": "Surco Viejo"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2809,7 +2856,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "San Miguel",
+        "SUBDISTRITO": "San Miguel Oeste"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2900,7 +2950,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Magdalena del Mar",
+        "SUBDISTRITO": "Magdalena Sur"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2967,7 +3020,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Magadalena del Mar",
+        "SUBDISTRITO": "Magdalena Tradicional"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3022,7 +3078,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "DISTRITO": "Magdalena del Mar",
+        "SUBDISTRITO": "Magdalena Centro"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3081,7 +3145,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Pueblo Libre",
+        "SUBDISTRITO": "Pueblo Libre Oeste"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3152,7 +3219,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Miraflores",
+        "SUBDISTRITO": "Miraflores Sur"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3575,7 +3645,13 @@
     {
       "type": "Feature",
       "properties": {
-        "DISTRITO": ""
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "DISTRITO": "Pueblo Libre",
+        "SUBDISTRITO": "Pueblo Libre Norte"
       },
       "geometry": {
         "type": "Polygon",
@@ -3647,7 +3723,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Pueblo Libre",
+        "SUBDISTRITO": "Pueblo Libre Este"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3690,7 +3769,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Santiago de Surco",
+        "SUBDISTRITO": "Surco Este"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3793,7 +3875,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Surquillo",
+        "SUBDISTRITO": "Barrio Medico"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3848,7 +3933,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Miraflores",
+        "SUBDISTRITO": "Miraflores Aurora"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3923,7 +4011,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "San Borja",
+        "SUBDISTRITO": "San Borja Sur"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3982,7 +4073,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Surquillo",
+        "SUBDISTRITO": "Surquillo Comercial"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4113,7 +4207,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Miraflores",
+        "SUBDISTRITO": "Miraflores Centro"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4148,7 +4245,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "San Isidro",
+        "SUBDISTRITO": "Corpac"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4219,7 +4319,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Miraflores",
+        "SUBDISTRITO": "Miraflores Sureste"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4290,7 +4393,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Miraflores",
+        "SUBDISTRITO": "Miraflores Norte"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4349,7 +4455,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Surquillo",
+        "SUBDISTRITO": "Surquillo Centro"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4388,7 +4497,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Surquillo",
+        "SUBDISTRITO": "Surquillo Norte"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4435,7 +4547,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Miraflores",
+        "SUBDISTRITO": "Miraflores Este"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4494,7 +4609,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Miraflores",
+        "SUBDISTRITO": "Miraflores Noreste"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4561,7 +4679,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "San Isidro",
+        "SUBDISTRITO": "San Isidro Sur"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4668,7 +4789,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "San Isidro",
+        "SUBDISTRITO": "San Isidro Financiero"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4711,7 +4835,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "San Isidro",
+        "SUBDISTRITO": "San Isidro Olivar"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4770,7 +4897,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "San Isidro",
+        "SUBDISTRITO": "San Isidro Este"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4933,7 +5063,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "San Isidro",
+        "SUBDISTRITO": "San Isidro Centro"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [

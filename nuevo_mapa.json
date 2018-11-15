@@ -280,7 +280,13 @@
     {
       "type": "Feature",
       "properties": {
-        "DISTRITO": ""
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "DISTRITO": "La Molina",
+        "SUBDISTRITO": "La Planicie"
       },
       "geometry": {
         "type": "Polygon",
@@ -468,7 +474,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "DISTRITO": "La Molina",
+        "SUBDISTRITO": "Constructores"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -587,7 +601,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "DISTRITO": "La Molina",
+        "SUBDISTRITO": "La Rinconada"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -758,7 +780,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "DISTRITO": "La Molina",
+        "SUBDISTRITO": "La Molina Vieja"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -849,7 +879,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "fill": "#000000",
+        "DISTRITO": "La Molina",
+        "SUBDISTRITO": "La Molina Viñas"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -972,7 +1010,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "fill": "",
+        "DISTRITO": "Chorillos",
+        "SUBDISTRITO": "Chorrillos Norte y Sur"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1152,7 +1194,9 @@
     {
       "type": "Feature",
       "properties": {
-        "fill": ""
+        "fill": "",
+        "DISTRITO": "Barranco",
+        "SUBDISTRITO": "Barranco Cultural"
       },
       "geometry": {
         "type": "Polygon",
@@ -1415,7 +1459,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": "Santiago de Surco",
+        "SUBDISTRITO": "Surco Monterrico"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1566,7 +1613,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "fill-opacity": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3350,7 +3399,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "DISTRITO": "Lima",
+        "SUBDISTRITO": "Lima Oeste 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3517,7 +3574,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [

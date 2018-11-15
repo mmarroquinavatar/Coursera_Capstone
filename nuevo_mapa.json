@@ -3,7 +3,15 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "DISTRITO": "San Miguel",
+        "SUBDISTRITO": "San Miguel Costanera"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -90,7 +98,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "DISTRITO": "San Miguel",
+        "SUBDISTRITO": "San Miguel Sur"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -133,7 +149,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "DISTRITO": "San Miguel",
+        "SUBDISTRITO": "San Miguel Comercial"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -192,7 +216,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "DISTRITO": "San Miguel",
+        "SUBDISTRITO": "San Miguel Centro"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -247,7 +279,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1117,7 +1151,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "fill": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1296,7 +1332,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "DISTRITO": "San Miguel",
+        "SUBDISTRITO": "San Miguel Norte"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5495,7 +5539,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "fill": "",
+        "fill-opacity": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5530,7 +5577,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "DISTRITO": "Chorrillos",
+        "SUBDISTRITO": "Chorrillos Oeste"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5641,7 +5696,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "DISTRITO": "Chorillos",
+        "SUBDISTRITO": "Chorrillos Este"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5672,7 +5735,15 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "DISTRITO": "Chorrillos",
+        "SUBDISTRITO": "Chorrillos Centro y Este"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5831,7 +5902,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "DISTRITO": ""
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [

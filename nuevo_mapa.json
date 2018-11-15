@@ -1895,7 +1895,7 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "DISTRITO": "San Borja",
-        "SUBDISTRITO": "San Borja Centro"
+        "SUBDISTRITO": "San Borja entro"
       },
       "geometry": {
         "type": "Polygon",

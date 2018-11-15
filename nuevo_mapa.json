@@ -785,7 +785,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": "",
+        "fill-opacity": 0.5,
         "DISTRITO": "La Molina",
         "SUBDISTRITO": "La Molina Vieja"
       },
@@ -884,7 +884,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill-opacity": 0.5,
-        "fill": "#000000",
+        "fill": "#555555",
         "DISTRITO": "La Molina",
         "SUBDISTRITO": "La Molina Viñas"
       },
@@ -1015,7 +1015,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill-opacity": 0.5,
-        "fill": "#000000",
+        "fill": "#555555",
         "DISTRITO": "Chorillos",
         "SUBDISTRITO": "Chorrillos Norte y Sur"
       },
@@ -1201,10 +1201,10 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#000000",
+        "fill": "#555555",
         "DISTRITO": "Barranco",
         "SUBDISTRITO": "Barranco Cultural",
-        "fill-opacity": ""
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -1389,7 +1389,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": "",
+        "fill-opacity": 0.5,
         "DISTRITO": "San Miguel",
         "SUBDISTRITO": "San Miguel Norte"
       },
@@ -1474,7 +1474,7 @@
         "fill": "#555555",
         "DISTRITO": "Santiago de Surco",
         "SUBDISTRITO": "Surco Monterrico",
-        "fill-opacity": ""
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -1627,9 +1627,13 @@
     {
       "type": "Feature",
       "properties": {
-        "fill-opacity": "",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
         "DISTRITO": "Santiago de Surco",
-        "SUBDISTRITO": "Surco Casuarinas"
+        "SUBDISTRITO": "Surco Casuarinas",
+        "fill": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -1830,6 +1834,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "San Borja",
         "SUBDISTRITO": "San Borja Chacarilla"
       },
@@ -2003,6 +2012,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "San Borja",
         "SUBDISTRITO": "San Borja Norte"
       },
@@ -2081,6 +2095,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Santiago de Surco",
         "SUBDISTRITO": "Surco Chacarilla"
       },
@@ -2143,8 +2162,13 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
         "DISTRITO": "Chorrillos",
-        "SUBDISTRITO": "Chorrillos Centro y Norte"
+        "SUBDISTRITO": "Chorrillos Centro y Norte",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -2249,8 +2273,13 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
         "DISTRITO": "Santiago de Surco",
-        "SUBDISTRITO": "Surco Sur"
+        "SUBDISTRITO": "Surco Sur",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -2519,7 +2548,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": "",
+        "fill-opacity": 0.5,
         "DISTRITO": "Barranco",
         "SUBDISTRITO": "Barranco Tradicional"
       },
@@ -2634,6 +2663,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Barranco",
         "SUBDISTRITO": "Nuevo Barranco"
       },
@@ -2688,6 +2722,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Santiago de Surco",
         "SUBDISTRITO": "Surco Viejo"
       },
@@ -2862,6 +2901,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "San Miguel",
         "SUBDISTRITO": "San Miguel Oeste"
       },
@@ -2956,6 +3000,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Magdalena del Mar",
         "SUBDISTRITO": "Magdalena Sur"
       },
@@ -3026,6 +3075,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Magadalena del Mar",
         "SUBDISTRITO": "Magdalena Tradicional"
       },
@@ -3088,7 +3142,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": "",
+        "fill-opacity": 0.5,
         "DISTRITO": "Magdalena del Mar",
         "SUBDISTRITO": "Magdalena Centro"
       },
@@ -3151,8 +3205,13 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
         "DISTRITO": "Pueblo Libre",
-        "SUBDISTRITO": "Pueblo Libre Oeste"
+        "SUBDISTRITO": "Pueblo Libre Oeste",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -3225,8 +3284,13 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
         "DISTRITO": "Miraflores",
-        "SUBDISTRITO": "Miraflores Sur"
+        "SUBDISTRITO": "Miraflores Sur",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -3479,7 +3543,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": "",
+        "fill-opacity": 0.5,
         "DISTRITO": "Lima",
         "SUBDISTRITO": "Lima Oeste 2"
       },
@@ -3654,7 +3718,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": "",
+        "fill-opacity": 0.5,
         "DISTRITO": "Pueblo Libre",
         "SUBDISTRITO": "Pueblo Libre Norte"
       },
@@ -3729,6 +3793,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Pueblo Libre",
         "SUBDISTRITO": "Pueblo Libre Este"
       },
@@ -3775,6 +3844,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Santiago de Surco",
         "SUBDISTRITO": "Surco Este"
       },
@@ -3881,6 +3955,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Surquillo",
         "SUBDISTRITO": "Barrio Medico"
       },
@@ -3939,6 +4018,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Miraflores",
         "SUBDISTRITO": "Miraflores Aurora"
       },
@@ -4017,6 +4101,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "San Borja",
         "SUBDISTRITO": "San Borja Sur"
       },
@@ -4079,6 +4168,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Surquillo",
         "SUBDISTRITO": "Surquillo Comercial"
       },
@@ -4213,6 +4307,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Miraflores",
         "SUBDISTRITO": "Miraflores Centro"
       },
@@ -4251,6 +4350,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "San Isidro",
         "SUBDISTRITO": "Corpac"
       },
@@ -4325,6 +4429,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Miraflores",
         "SUBDISTRITO": "Miraflores Sureste"
       },
@@ -4399,6 +4508,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Miraflores",
         "SUBDISTRITO": "Miraflores Norte"
       },
@@ -4461,6 +4575,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Surquillo",
         "SUBDISTRITO": "Surquillo Centro"
       },
@@ -4503,6 +4622,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Surquillo",
         "SUBDISTRITO": "Surquillo Norte"
       },
@@ -4553,6 +4677,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Miraflores",
         "SUBDISTRITO": "Miraflores Este"
       },
@@ -4615,6 +4744,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Miraflores",
         "SUBDISTRITO": "Miraflores Noreste"
       },
@@ -4685,6 +4819,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "San Isidro",
         "SUBDISTRITO": "San Isidro Sur"
       },
@@ -4795,6 +4934,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "San Isidro",
         "SUBDISTRITO": "San Isidro Financiero"
       },
@@ -4841,8 +4985,13 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
         "DISTRITO": "San Isidro",
-        "SUBDISTRITO": "San Isidro Olivar"
+        "SUBDISTRITO": "San Isidro Olivar",
+        "fill": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -4903,6 +5052,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "San Isidro",
         "SUBDISTRITO": "San Isidro Este"
       },
@@ -5069,6 +5223,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "San Isidro",
         "SUBDISTRITO": "San Isidro Centro"
       },
@@ -5147,6 +5306,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Magdalena del Mar",
         "SUBDISTRITO": "Magdalena Moderno"
       },
@@ -5363,7 +5527,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": "",
+        "fill-opacity": 0.5,
         "DISTRITO": "Lince",
         "SUBDISTRITO": "Linsidro"
       },
@@ -5430,8 +5594,13 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
         "DISTRITO": "Lince",
-        "SUBDISTRITO": "Lince Financiero"
+        "SUBDISTRITO": "Lince Financiero",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -5539,6 +5708,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Lince",
         "SUBDISTRITO": "Lince Este"
       },
@@ -5605,9 +5779,13 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
         "DISTRITO": "Lima",
         "SUBDISTRITO": "Lima Sur",
-        "fill-opacity": ""
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
@@ -5660,7 +5838,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": "",
+        "fill-opacity": 0.5,
         "DISTRITO": "Jesus Maria",
         "SUBDISTRITO": "Jesus Maria Sur"
       },
@@ -5731,7 +5909,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": "",
+        "fill-opacity": 0.5,
         "DISTRITO": "Jesus Maria",
         "SUBDISTRITO": "Jesus Maria Sur"
       },
@@ -5801,7 +5979,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#000000",
+        "fill": "#555555",
         "fill-opacity": 0.5,
         "DISTRITO": "Jesus Maria",
         "SUBDISTRITO": "Jesus Maria Sur"
@@ -5845,7 +6023,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": "",
+        "fill-opacity": 0.5,
         "DISTRITO": "Chorrillos",
         "SUBDISTRITO": "Chorrillos Oeste"
       },
@@ -5964,7 +6142,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": "",
+        "fill-opacity": 0.5,
         "DISTRITO": "Chorillos",
         "SUBDISTRITO": "Chorrillos Este"
       },
@@ -6003,7 +6181,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#555555",
-        "fill-opacity": "",
+        "fill-opacity": 0.5,
         "DISTRITO": "Chorrillos",
         "SUBDISTRITO": "Chorrillos Centro y Este"
       },
@@ -6166,6 +6344,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Breña",
         "SUBDISTRITO": "Breña Oeste"
       },
@@ -6220,6 +6403,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Breña",
         "SUBDISTRITO": "Breña Este"
       },
@@ -6266,6 +6454,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "DISTRITO": "Breña",
         "SUBDISTRITO": "Breña Norte"
       },

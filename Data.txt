@@ -1,0 +1,8 @@
+Description of the data:
+We are using three source for this scenario:
+1-The data of the districts and districts divisions of Lima city, in pure GEOJson
+2-The data of the land value of each sub-district, in JSON Format
+3-Foursquare API to locate the nearby hotels, REST services
+
+We will use the geodata to draw the map, marking the spot where the most wealthy zone is located, and next we will locate the nearby hotels, cluster them and draw the clusters in the map. This will allow HotelCorp to know how far they are from others hotels and choose the best place for the new building.
+

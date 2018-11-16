@@ -1,0 +1,4 @@
+Description of the Problem:
+HotelCorp is a global company in constant worldwide expansion. Currently, it wants to expand their operations to Latin America.
+First at all, they want to build a new luxury hotel in Lima, Peru. This hotel must be built in the most wealthy zone of Lima and must be far from others hotels(to be really exlusive).
+The question to answer: Where is the best place to build the new luxury hotel?

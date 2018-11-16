@@ -286,7 +286,7 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "DISTRITO": "La Molina",
-        "SUBDISTRITO": "La Planicie"
+        "SUBDISTRITO": "La Planicie -  El Sol de  la Molina"
       },
       "geometry": {
         "type": "Polygon",
@@ -608,7 +608,7 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "DISTRITO": "La Molina",
-        "SUBDISTRITO": "La Rinconada"
+        "SUBDISTRITO": "La Molina Rinconada"
       },
       "geometry": {
         "type": "Polygon",
